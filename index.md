@@ -1,11 +1,11 @@
 # Table of Contents
-* [Daily Covid Check](#daily-covid-check)
+* [Covid Checker](#covid-check)
 * [The Team](#the-team)
 
 
 ## Overview
 
-## Daily Covid Check
+## Covid Checker
 
 
 ## The Team
