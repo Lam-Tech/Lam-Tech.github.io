@@ -29,14 +29,11 @@ The second purpose of this app is to provide a record of all submissions. This i
 The third purpose of this app is to allow users to upload information about their vaccine status.  This data includes the dates when a vaccine was administered, the kind of vaccine, and the lot number.  Users can also upload a picture of their vaccine card.  You will need to use an image hosting service like Cloudinary, or a generic file storage service like Amazon S3.
 
 ## Covid Checker Milestones
-Milestone-1 (Due Date: September 15, 11pm) : One member of your team should submit to this channel the link to your GitHub page describing your application. By this date, the application should be deployed to Galaxy, allow registration and login, and provide the ability to indicate (or update) your COVID status for the current day. 
-The GitHub page should provide screenshots of all pages in the application and a description of how they work and indicate all team members.
+[Milestone-1](https://github.com/Lam-Tech/covid-checker/projects/1) (Due Date: September 15, 11pm) 
 
-Milestone-2 (Due Date: October 1, 11pm) : By this date, you must have completed all requirements for Milestone 1, plus there should be a new page that allows users to enter their vaccine status (but not a picture of their vaccine card, which is for milestone 3).
-One member of your team should submit a link to this channel of your GitHub page for this project.  The page should provide details on the current user interface and a link to the deployed application, and indicate all team members.
+[Milestone-2](https://github.com/Lam-Tech/covid-checker/projects/2) (Due Date: October 1, 11pm)
 
-Milestone-3 (Due Date: October 14, 11pm) : By this date, you should have completed all of the requirements for Milestones 1 and 2, plus your application should be able to upload a picture of a vaccine card and display it for the user. The GitHub page for the application should be updated with the latest user interface and link to the deployed application.
-For Milestone 3, each member of the class must submit to this channel a link to an entry in your professional portfolio that describes the application you developed, provides links to the GitHub page and deployed application, what you learned from the experience, and what you personally contributed to the project.
+[Milestone-3](https://github.com/Lam-Tech/covid-checker/projects/3) (Due Date: October 14, 11pm)
 
 ## Meteor Hackathon
 
