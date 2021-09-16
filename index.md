@@ -1,3 +1,5 @@
+# COVID Checker
+
 # Table of Contents
 * [Overview](#overview)
 * [Covid Checker](#covid-check)
