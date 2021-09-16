@@ -13,7 +13,7 @@ This is the first project for our ICS 491 which help us to prepare hackathons.
 Covid Checker is an application which record each user's daily health condition. which user
 are able to create account and login Covid Checker for daily health condition check. The database
 will be able to record every day's health condition and to determined if they are safe to attend to 
-school or not.
+school or not. The site is currently deployed in [here](https://lamtech-covid.meteorapp.com/#/).
 
 ## User Manual
 
