@@ -51,3 +51,4 @@ In the middle of the footer bar, this is the history page which record user's pa
 - [Yiwen Chen](https://github.com/yiwenc22)
 - [Chak Hon Lam](https://github.com/chakhon)
 - [Shengton Jin](https://github.com/ShengT-Jin)
+- [Zheng He](https://github.com/Zheng-Chen-He)
