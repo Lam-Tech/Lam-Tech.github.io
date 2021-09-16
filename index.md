@@ -23,7 +23,7 @@ school or not. The site is currently deployed in [here](https://lamtech-covid.me
 
 This is the landing page of our application, which allows user to sign up an account or login with exists account.
 
-![](images/landingpage.png)
+![](images/ladingpage.png)
 
 ### Sign up & Sign in pages
 
