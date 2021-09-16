@@ -1,6 +1,6 @@
 # COVID Checker
 
-# Table of Contents
+## Table of Contents
 * [Overview](#overview)
 * [Covid Checker](#covid-check)
 * [User Manual](#user-manual)
