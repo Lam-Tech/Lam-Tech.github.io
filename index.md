@@ -46,6 +46,17 @@ In the middle of the footer bar, this is the history page which record user's pa
 
 ![](images/historypage.png)
 
+### Profile page
+
+The profile page shows user's name in the middle, and you can add or edit your vaccine card by click edit vaccine card, or log out.
+
+![](images/profile_page.png)
+
+### Vaccine card
+
+In you profile page, you can add your vaccine card in to your profile by click the bottom, which you can enter all your vaccine card information.
+
+![](images/vaccine_card.png)
 
 ## The Team
 - [Yiwen Chen](https://github.com/yiwenc22)
