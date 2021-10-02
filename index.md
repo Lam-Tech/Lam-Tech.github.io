@@ -62,3 +62,4 @@ In you profile page, you can add your vaccine card in to your profile by click t
 - [Yiwen Chen](https://github.com/yiwenc22)
 - [Chak Hon Lam](https://github.com/chakhon)
 - [Shengton Jin](https://github.com/ShengT-Jin)
+- [Zheng He](https://github.com/Zheng-Chen-He)
